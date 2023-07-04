@@ -1,5 +1,5 @@
 homepage: "https://dehut.com.br/"
 documentation: "https://dehut.com.br/documentation"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
-    changeNotes: Initial release.
+  - sha: 466ec4749c853e88afd6b8dc3027ab505333d7e3
+    changeNotes: "Versão inicial"
